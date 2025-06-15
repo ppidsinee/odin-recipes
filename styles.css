@@ -1,0 +1,14 @@
+/* styles.css */
+body{
+ font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  text-align: center;
+  margin: auto;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
+ul {
+  display: table;
+  margin: auto;
+}
